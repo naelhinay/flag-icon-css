@@ -16,6 +16,10 @@ $ bower install flag-icon-css
 $ npm install flag-icon-css
 ```
 
+## Using the `AND` flag as alternative for Andorra to circumbent adblockers
+Add to your package.json
+```"flag-icon-css": "naelhinay/flag-icon-css#andorra-adblock-fix"```
+
 ## Usage
 
 For using the flags inline with text add the classes `.flag-icon` and
